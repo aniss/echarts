@@ -1,0 +1,16 @@
+{
+  "name": "echarts",
+  "version": "0.0.0",
+  "homepage": "https://github.com/aniss/echarts",
+  "authors": [
+    "Anis Bouraba <anis.bouraba@appsbroker.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
